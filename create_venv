@@ -1,0 +1,19 @@
+Virtual environments
+
+
+Less useful https://stackoverflow.com/questions/23842713/using-python-3-in-virtualenv
+
+Py Qt https://build-system.fman.io/pyqt5-tutorial
+
+Pipenv https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref
+
+To create a virtual environment in the current directory, execute the following command:
+python3 -m venv venv
+This creates the venv/ folder. To activate the virtual environment on
+On Mac and Linux, use:
+source venv/bin/activate
+
+This is the FBS stuff
+https://github.com/mherrmann/fbs-tutorial
+
+https://pythonprogramming.net/ 
